@@ -55,3 +55,7 @@ wing update rollback # 回退到上一版本
 ## License
 
 Apache-2.0
+
+## Changelog
+
+- v1.0.1: routine maintenance and reliability improvements
